@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="By.cs" />
     <Compile Include="ClassPoint.cs" />
     <Compile Include="Direction.cs" />
     <Compile Include="Figure.cs" />
