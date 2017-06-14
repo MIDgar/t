@@ -29,7 +29,8 @@ namespace t
             {
                 if (walls.IsHit(snake) || snake.IsHitTail())
                 {
-                    
+                    By bye = new By();
+                    bye.SayBy();
                     break;
                 }
 
