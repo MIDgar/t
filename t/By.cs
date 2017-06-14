@@ -11,8 +11,9 @@ namespace t
         public void SayBy()
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.SetCursorPosition(10, 10);
+            Console.SetCursorPosition(30, 20);
             Console.Write("say goodbye");
+
         }
     }
 }
