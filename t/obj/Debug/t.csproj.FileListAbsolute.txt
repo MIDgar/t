@@ -1,6 +1,0 @@
-c:\users\jury7\documents\visual studio 2017\Projects\t\t\obj\Debug\t.csprojResolveAssemblyReference.cache
-c:\users\jury7\documents\visual studio 2017\Projects\t\t\bin\Debug\t.exe.config
-c:\users\jury7\documents\visual studio 2017\Projects\t\t\bin\Debug\t.exe
-c:\users\jury7\documents\visual studio 2017\Projects\t\t\bin\Debug\t.pdb
-c:\users\jury7\documents\visual studio 2017\Projects\t\t\obj\Debug\t.exe
-c:\users\jury7\documents\visual studio 2017\Projects\t\t\obj\Debug\t.pdb
