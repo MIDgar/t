@@ -10,7 +10,7 @@ namespace t
     {
         public void SayBy()
         {
-            Console.SetWindowPosition(10, 10);
+            Console.SetCursorPosition(10, 10);
             Console.Write("say");
         }
     }
