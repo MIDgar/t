@@ -29,7 +29,7 @@ namespace t
             {
                 if (walls.IsHit(snake) || snake.IsHitTail())
                 {
-                    
+                    Console.WriteLine("and by-by");
                     break;
                 }
 
