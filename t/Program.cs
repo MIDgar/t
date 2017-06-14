@@ -29,6 +29,8 @@ namespace t
             {
                 if (walls.IsHit(snake) || snake.IsHitTail())
                 {
+                    Console.SetCursorPosition(10, 10);
+                    Console.WriteLine("это ещё не конец");
                     break;
                 }
 
